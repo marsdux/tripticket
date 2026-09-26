@@ -1,0 +1,9 @@
+# NetBeans specific folders
+nbproject/private/
+build/
+nbbuild/
+dist/
+
+# Compiled Java files
+*.class
+*.jar
